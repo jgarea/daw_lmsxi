@@ -56,6 +56,9 @@ npx xslt3 -xsl:artistas.xslt -s:artistas.xml -o:artistas.html -t
 xpather.com
 para trabajar con xpath
 
+## Preprocesador chrome
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-file-access-from-files en el acceso directo
+
 ## Decisiones tomadas
 * Aplicamos una plantilla a la raiz del documento, y trabajamos con un ``for-each`` a los artistas descendientes de artista y con un nacimiento mayo que 1500.
 * Paso siguiente los ordenamos por nacimiento.
