@@ -1,0 +1,15 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "1. Instalar extension XSLT/XPath VSCODE\r 2. Instalar node.js\r 3. Instalar Saxon-JS\r ```\r npm init -yes\r npm install --save-dev xslt3\r ```\r PAra ejecutar\r `` CTRL+SHIFT+B ``",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xslt3": "^2.6.0"
+  }
+}
