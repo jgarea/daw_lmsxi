@@ -1,0 +1,49 @@
+<ciclo nombre="DAW">
+    <modulo>
+        <nombre>Lenguajes de Marcas y Sistemas de Gestión de Información </nombre>
+        <horas tipo="semanales">4</horas>
+        <caracter>obligatorio</caracter>
+        <fechas>
+            <fecha>
+                <dia>15</dia>
+                <mes>Septiembre</mes>
+                <anho>2023</anho>
+            </fecha>
+            <fecha>
+                <dia>30</dia>
+                <mes>Junio</mes>
+                <anho>2024</anho>
+            </fecha>
+        </fechas>
+        <alumnos>
+            <alumno>
+                <nombre>Ana</nombre>
+                <apellidos>Fernández Gutiérrez</apellidos>
+                <identificacion tipo="nif">16965696L</identificacion>
+                <telefono>789654321</telefono>
+                <email>ana.fdezgtrrez@hotmail.com</email>
+                <direccion>
+                    <calle>C/ El Percebe</calle>
+                    <numero>13</numero>
+                    <poblacion>Santander</poblacion>
+                    <codigo_postal>39302</codigo_postal>
+                </direccion>
+            </alumno>
+            <alumno>
+                <nombre>Pepito</nombre>
+                <apellidos>Grillo</apellidos>
+                <identificacion tipo="nif">98765432H</identificacion>
+                <telefono>656566555</telefono>
+                <email>yhyh@yahoo.com</email>
+                <direccion>
+                    <calle>Avd. El Pez</calle>
+                    <numero>5</numero>
+                    <poblacion>Suances</poblacion>
+                    <codigo_postal>39401</codigo_postal>
+                </direccion>
+                <nota>apto</nota>
+                <faltas></faltas>
+            </alumno>
+        </alumnos>
+    </modulo>
+</ciclo>

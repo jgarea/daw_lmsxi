@@ -1,0 +1,63 @@
+<recetas>
+    <receta>
+        <nombre>Sopa de cebolla </nombre>
+        <comensales>4</comensales>
+        <ingredientes>
+            <ingrediente>
+                <nombre>cebolla</nombre>
+                <cantidad unidad="kg">1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>caldo de carne</nombre>
+                <cantidad unidad="l">2</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Mantequilla</nombre>
+                <cantidad unidad="g">100</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>harina</nombre>
+                <cantidad unidad="cucharada">1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>queso emmental suizo</nombre>
+                <cantidad unidad="g">100</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>pan tostado</nombre>
+                <cantidad unidad="rebanada">4</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Tomillo</nombre>
+            </ingrediente>
+            <ingrediente>
+                <nombre>laurel</nombre>
+                <cantidad unidad="hoja">1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>pimienta</nombre>
+            </ingrediente>
+        </ingredientes>
+        <procesos>
+            <proceso>
+                Pelar y partir las cebollas en rodajas finas.
+            </proceso>
+            <proceso>
+                Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén
+                transparentes sin dorarse.
+            </proceso>
+            <proceso>
+                Añadir la harina sin dejar de remover.
+            </proceso>
+            <proceso>
+                Ponerlo en una cazuela con el caldo, el tomillo y el laurel.
+            </proceso>
+            <proceso>
+                Dejar cocer a fuego lento durante unos 15 minutos.
+            </proceso>
+            <proceso>
+                Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.
+            </proceso>
+        </procesos>
+    </receta>
+</recetas>

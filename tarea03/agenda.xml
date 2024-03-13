@@ -1,0 +1,32 @@
+<agenda>
+    <contacto>
+        <nombre>Juan Eugenio</nombre>
+        <apellidos>Antón Area</apellidos>
+        <direccion>
+            <calle>Camino Estrecho</calle>
+            <numero>2</numero>
+            <poblacion>Poio</poblacion>
+            <provincia>Pontevedra</provincia>
+            <cp>36995</cp>
+        </direccion>
+        <telefonos>
+            <telefono tipo="casa">333333333</telefono>
+            <telefono tipo="movil">222222222</telefono>
+            <telefono tipo="trabajo">111111111</telefono>
+        </telefonos>
+    </contacto>    
+    <contacto>
+        <nombre>Luis</nombre>
+        <apellidos>Rodriguez</apellidos>
+        <direccion>
+            <calle>Camino Grande</calle>
+            <numero>3</numero>
+            <poblacion>Pontevedra</poblacion>
+            <provincia>Pontevedra</provincia>
+            <cp>36994</cp>
+        </direccion>
+        <telefonos>
+            <telefono tipo="casa">333333333</telefono>
+        </telefonos>
+    </contacto>    
+</agenda>
