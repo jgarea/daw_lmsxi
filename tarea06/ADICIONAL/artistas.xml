@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<artistas>
+  <artista id="a101" wikipedia="https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez">
+    <nombre>Diego Velázquez</nombre>
+    <nacimiento>1599</nacimiento>
+    <fallecimiento>1660</fallecimiento>
+    <pais>España</pais>
+  </artista>
+  <artista id="a102" wikipedia="https://es.wikipedia.org/wiki/Caravaggio">
+    <nombre>Michelangelo Caravaggio</nombre>
+    <nacimiento>1571</nacimiento>
+    <fallecimiento>1610</fallecimiento>
+    <pais>Italia</pais>
+  </artista>
+  <artista id="a103" wikipedia="https://es.wikipedia.org/wiki/Herrada_de_Landsberg">
+    <nombre>Herrada de Landsberg</nombre>
+    <nacimiento>1125</nacimiento>
+    <fallecimiento>1195</fallecimiento>
+    <pais>Alsacia</pais>
+  </artista>
+  <artista id="a104" wikipedia="https://es.wikipedia.org/wiki/Francisco_de_Goya">
+    <nombre>Francisco de Goya</nombre>
+    <nacimiento>1746</nacimiento>
+    <fallecimiento>1828</fallecimiento>
+    <pais>España</pais>
+  </artista>
+  <artista id="a105" wikipedia="https://es.wikipedia.org/wiki/Leonardo_da_Vinci">
+    <nombre>Leonardo da Vinci</nombre>
+    <nacimiento>1452</nacimiento>
+    <fallecimiento>1519</fallecimiento>
+    <pais>Italia</pais>
+  </artista>
+  <artista id="a106" wikipedia="https://es.wikipedia.org/wiki/Pablo_Picasso">
+    <nombre>Pablo Picasso</nombre>
+    <nacimiento>1881</nacimiento>
+    <fallecimiento>1973</fallecimiento>
+    <pais>España</pais>
+  </artista>
+  <artista id="a107" wikipedia="https://es.wikipedia.org/wiki/Rembrandt">
+    <nombre>Rembrandt</nombre>
+    <nacimiento>1606</nacimiento>
+    <fallecimiento>1669</fallecimiento>
+    <pais>Países Bajos</pais>
+  </artista>
+  <artista id="a108" wikipedia="https://es.wikipedia.org/wiki/Gustav_Klimt">
+    <nombre>Gustav Klimt</nombre>
+    <nacimiento>1862</nacimiento>
+    <fallecimiento>1918</fallecimiento>
+    <pais>Austria</pais>
+  </artista>
+  <artista id="a109" wikipedia="https://es.wikipedia.org/wiki/Sandro_Botticelli">
+    <nombre>Sandro Botticelli</nombre>
+    <nacimiento>1445</nacimiento>
+    <fallecimiento>1510</fallecimiento>
+    <pais>Italia</pais>
+  </artista>
+  <artista id="a110" wikipedia="https://es.wikipedia.org/wiki/Edvard_Munch">
+    <nombre>Edvard Munch</nombre>
+    <nacimiento>1863</nacimiento>
+    <fallecimiento>1944</fallecimiento>
+    <pais>Noruega</pais>
+  </artista>
+  <artista id="a111" wikipedia="https://es.wikipedia.org/wiki/Vincent_van_Gogh">
+    <nombre>Vincent van Gogh</nombre>
+    <nacimiento>1853</nacimiento>
+    <fallecimiento>1890</fallecimiento>
+    <pais>Países Bajos</pais>
+  </artista>
+  <artista id="a112" wikipedia="https://es.wikipedia.org/wiki/Piet_Mondrian">
+    <nombre>Piet Mondrian</nombre>
+    <nacimiento>1872</nacimiento>
+    <fallecimiento>1944</fallecimiento>
+    <pais>Países Bajos</pais>
+  </artista>
+  <artista id="a113" wikipedia="https://es.wikipedia.org/wiki/Titian">
+    <nombre>Titian</nombre>
+    <nacimiento>1488</nacimiento>
+    <fallecimiento>1576</fallecimiento>
+    <pais>Italia</pais>
+  </artista>
+  <artista id="a114" wikipedia="https://es.wikipedia.org/wiki/Jackson_Pollock">
+    <nombre>Jackson Pollock</nombre>
+    <nacimiento>1912</nacimiento>
+    <fallecimiento>1956</fallecimiento>
+    <pais>Estados Unidos</pais>
+  </artista>
+  <artista id="a115" wikipedia="https://es.wikipedia.org/wiki/Paul_Gauguin">
+    <nombre>Paul Gauguin</nombre>
+    <nacimiento>1848</nacimiento>
+    <fallecimiento>1903</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a116" wikipedia="https://es.wikipedia.org/wiki/Johannes_Vermeer">
+    <nombre>Johannes Vermeer</nombre>
+    <nacimiento>1632</nacimiento>
+    <fallecimiento>1675</fallecimiento>
+    <pais>Países Bajos</pais>
+  </artista>
+  <artista id="a117" wikipedia="https://es.wikipedia.org/wiki/Henri_Matisse">
+    <nombre>Henri Matisse</nombre>
+    <nacimiento>1869</nacimiento>
+    <fallecimiento>1954</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a118" wikipedia="https://es.wikipedia.org/wiki/Claude_Monet">
+    <nombre>Claude Monet</nombre>
+    <nacimiento>1840</nacimiento>
+    <fallecimiento>1926</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a119" wikipedia="https://es.wikipedia.org/wiki/Ren%C3%A9_Magritte">
+    <nombre>René Magritte</nombre>
+    <nacimiento>1898</nacimiento>
+    <fallecimiento>1967</fallecimiento>
+    <pais>Bélgica</pais>
+  </artista>
+  <artista id="a120" wikipedia="https://es.wikipedia.org/wiki/Frida_Kahlo">
+    <nombre>Frida Kahlo</nombre>
+    <nacimiento>1907</nacimiento>
+    <fallecimiento>1954</fallecimiento>
+    <pais>México</pais>
+  </artista>
+  <artista id="a121" wikipedia="https://es.wikipedia.org/wiki/Marc_Chagall">
+    <nombre>Marc Chagall</nombre>
+    <nacimiento>1887</nacimiento>
+    <fallecimiento>1985</fallecimiento>
+    <pais>Rusia</pais>
+  </artista>
+  <artista id="a122" wikipedia="https://es.wikipedia.org/wiki/Henri_Rousseau">
+    <nombre>Henri Rousseau</nombre>
+    <nacimiento>1844</nacimiento>
+    <fallecimiento>1910</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a123" wikipedia="https://es.wikipedia.org/wiki/Pablo_Picasso">
+    <nombre>Pablo Picasso</nombre>
+    <nacimiento>1881</nacimiento>
+    <fallecimiento>1973</fallecimiento>
+    <pais>España</pais>
+  </artista>
+  <artista id="a124" wikipedia="https://es.wikipedia.org/wiki/Camille_Pissarro">
+    <nombre>Camille Pissarro</nombre>
+    <nacimiento>1830</nacimiento>
+    <fallecimiento>1903</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a125" wikipedia="https://es.wikipedia.org/wiki/Magdalena_Abakanowicz">
+    <nombre>Magdalena Abakanowicz</nombre>
+    <nacimiento>1930</nacimiento>
+    <fallecimiento>2017</fallecimiento>
+    <pais>Polonia</pais>
+  </artista>
+  <artista id="a126" wikipedia="https://es.wikipedia.org/wiki/Edvard_Munch">
+    <nombre>Edvard Munch</nombre>
+    <nacimiento>1863</nacimiento>
+    <fallecimiento>1944</fallecimiento>
+    <pais>Noruega</pais>
+  </artista>
+  <artista id="a127" wikipedia="https://es.wikipedia.org/wiki/Georges_Seurat">
+    <nombre>Georges Seurat</nombre>
+    <nacimiento>1859</nacimiento>
+    <fallecimiento>1891</fallecimiento>
+    <pais>Francia</pais>
+  </artista>
+  <artista id="a128" wikipedia="https://es.wikipedia.org/wiki/Gustav_Klimt">
+    <nombre>Gustav Klimt</nombre>
+    <nacimiento>1862</nacimiento>
+    <fallecimiento>1918</fallecimiento>
+    <pais>Austria</pais>
+  </artista>
+  <artista id="a129" wikipedia="https://es.wikipedia.org/wiki/Edward_Hopper">
+    <nombre>Edward Hopper</nombre>
+    <nacimiento>1882</nacimiento>
+    <fallecimiento>1967</fallecimiento>
+    <pais>Estados Unidos</pais>
+  </artista>
+  <artista id="a130" wikipedia="https://es.wikipedia.org/wiki/Rembrandt">
+    <nombre>Rembrandt</nombre>
+    <nacimiento>1606</nacimiento>
+    <fallecimiento>1669</fallecimiento>
+    <pais>Países Bajos</pais>
+  </artista>
+  <artista id="a131" wikipedia="https://es.wikipedia.org/wiki/Banksy">
+    <nombre>Banksy</nombre>
+    <nacimiento>1974</nacimiento>
+    <pais>Reino Unido</pais>
+  </artista>
+  <artista id="a132" wikipedia="https://es.wikipedia.org/wiki/Jeff_Koons">
+    <nombre>Jeff Koons</nombre>
+    <nacimiento>1955</nacimiento>
+    <pais>Estados Unidos</pais>
+  </artista>
+  <artista id="a133" wikipedia="https://es.wikipedia.org/wiki/Marina_Abramovi%C4%87">
+    <nombre>Marina Abramović</nombre>
+    <nacimiento>1946</nacimiento>
+    <pais>Serbia</pais>
+  </artista>
+  <artista id="a134" wikipedia="https://es.wikipedia.org/wiki/Yayoi_Kusama">
+    <nombre>Yayoi Kusama</nombre>
+    <nacimiento>1929</nacimiento>
+    <pais>Japón</pais>
+  </artista>
+  <artista id="a135" wikipedia="https://es.wikipedia.org/wiki/Ai_Weiwei">
+    <nombre>Ai Weiwei</nombre>
+    <nacimiento>1957</nacimiento>
+    <pais>China</pais>
+  </artista>
+</artistas>
